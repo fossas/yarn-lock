@@ -21,7 +21,7 @@ dependencies:
   - containers
   - text
   - megaparsec >= 7 && < 9
-  - protolude == 0.2.*
+  - protolude >= 0.2 && < 0.4
   - either >= 4 && < 6
 
 library:
